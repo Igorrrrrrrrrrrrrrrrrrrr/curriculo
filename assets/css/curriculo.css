@@ -1,0 +1,64 @@
+body {
+    background-color: rgb(221, 221, 221);
+}
+
+p {
+    max-width: 700px;
+    margin: 0 auto;
+    text-align: left;
+    padding: 5px;
+}
+
+h3 {
+    max-width: 700px;
+    margin: 0 auto;
+    text-align: left;
+}
+
+.cabecario {
+    background-color: rgb(240, 240, 240);
+    padding: 10px;
+    max-width: 750px;
+    margin: 0 auto;
+}
+
+.pag {
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+    max-width: 750px;
+    margin: 0 auto;
+}
+
+.contato {
+    text-align: left;
+    margin-left: 230px;
+}
+
+.cursos {
+    max-width: 700px;
+    margin: 0 auto;
+    text-align: left;
+    padding: 10px;
+}
+
+li {
+    max-width: 680px;
+    margin: 0 auto;
+    font-size: 14px;
+    text-align: left;
+}
+
+.educacao {
+    max-width: 700px;
+    margin: 0 auto;
+    text-align: left;
+    padding: 10px;
+}
+
+hr {
+    border: none;
+    max-width: 750px;
+    margin: 0 auto;
+    height: 4px;
+    background-color: #000;
+}
